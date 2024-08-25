@@ -1,3 +1,7 @@
 Big data analytics
 data Science
 machine learning
+Arificial interlligence
+deep learning
+
+Data visualization
